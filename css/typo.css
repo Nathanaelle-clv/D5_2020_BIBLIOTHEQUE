@@ -35,15 +35,16 @@ h4 {font-size: 1.563em;}
 
 h5 {font-size: 0.8em;
   text-align: center;
-color:#D29181}
+color:#D29181;}
 h6{font-size: 1.6em;
   font-family: 'Nothing You Could Do', cursive;
   text-align: center;
 }
-h7{
+.signature{
   font-size: 1em;
     font-family: 'Nothing You Could Do',cursive;
 }
+
 small, .text_small {font-size: 0.8em;}
 
 
